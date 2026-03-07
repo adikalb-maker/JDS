@@ -1,0 +1,229 @@
+
+
+JD 1:
+
+Key Responsibilities
+-RTL design and integration of IPs and subsystems
+-Perform and resolve Lint, CDC, and RDC checks
+-Support functional verification using SystemVerilog, UVM, and C
+-Work on FPGA emulation for pre-silicon validation
+-Integration and validation of high-speed interfaces such as PCIe Gen3 and DDR4
+-Collaborate closely with verification, architecture, and physical design teams
+-Debug design and integration issues across the SoC lifecycle
+
+------------------------------------------------------------------------------------
+JD 2:
+
+Key Responsibilities
+
+Digital design implementation and micro-architecture of components of the Infinity Data Fabric
+Micro-architecture and RTL coding in Verilog/SystemVerilog of Data fabric components and its features as the fabric scales for server, data centre application systems.
+Collaborating with verification and integration teams to resolve inter IP integration issues
+Design flow quality checks - Lint, CDC, RDC and others
+Timing closure - timing constraints, synthesis, logic-depth reduction 
+Design area optimizations 
+
+-----------------------------------------------------------------------------
+JD 3:
+
+Job Description:
+
+Seeking a motivated RTL Design Engineer to develop, integrate, and verify digital logic using Verilog/SystemVerilog. 
+Responsibilities include ASIC/SoC IP integration, linting, synthesis, and working closely with verification teams. 
+Requires strong fundamentals in digital design, timing closure, and understanding of the ASIC flow. 
+You'll debug simulation failures, implement ECOs, and support gate-level simulations. 
+Collaborate with cross-functional teams (SW, DV, Physical Design) to achieve tapeout goals. 
+Bachelor's or Master's degree in engineering in EE/CS is essential, along with 2-3 years of relevant experience.
+
+---------------------------------------------------------------------------------
+JD 4:
+
+Responsibilities
+
+RTL Design & Implementation: Develop and optimize RTL code in Verilog/SystemVerilog for mixed-signal digital blocks and signal processing pipelines
+DSP Algorithm Translation: Collaborate with algorithm engineers to translate DSP concepts (filtering, transforms, modulation, signal analysis) into efficient, high-performance RTL implementations
+Design Verification: Write comprehensive assertions, unit-level testbenches, and participate in functional verification using industry-standard methodologies
+Integration & Bring-up: Partner with cross-functional teams to integrate complex IPs, validate performance in silicon, and support lab characterization
+Collaborative Problem-Solving: Work effectively with analog designers, algorithm engineers, verification specialists, and system architects across disciplinary boundaries
+
+-------------------------------------------------------------------------------
+JD 5:
+
+Key Responsibilities
+
+Develop micro-architecture from high-level specifications 
+Perform RTL design and coding using Verilog / SystemVerilog 
+Create efficient and reusable RTL logic 
+Perform design reviews, debugging, and issue resolution 
+Collaborate with verification, DFT, and physical design teams 
+Ensure design quality, performance, and area targets are met 
+Understand and translate high-level architectural requirements into RTL 
+
+-----------------------------------------------------------------------------
+JD 6:
+
+What You’ll Be Doing:
+
+Developing and modeling RTL logic in Verilog for embedded memory test and SLM IP blocks. 
+Performing digital design validation and functional verification at both block and SoC levels. 
+Executing logic synthesis, static timing analysis, and generating fault coverage reports to ensure robust designs. 
+Applying DFT (Design-for-Test) expertise for comprehensive memory and logic testing. 
+Identifying and troubleshooting design timing and DFT functional issues to optimize chip performance. 
+Utilizing and scripting in languages such as Tcl to automate design and verification workflows. 
+Defining architecture, logic, test bench designs, and embedded software functions for advanced test and analytics. 
+Developing and maintaining technical collateral including test suites, protocol documentation, and debug guides. 
+Collaborating with R&D and marketing teams to define new features, drive enhancements, and align product roadmaps. 
+Delivering product training, managing customer support cases, and ensuring turnaround time (TAT) metrics are met or exceeded.
+
+-----------------------------------------------------------------------
+JD 7:
+
+A minimum of 5 years of experience with the following skills. - Design  and verification experience including micro architecture, RTL design and test planning
+
+- Timing closure experience including timing constraints  and PTSI.
+- Prior experience in digital and mixed signal circuit design  for high speed PHYs
+- Hands-on experience with SystemVerilog/Verilog, DFT insertion, and timing closure - Hands-on experience with HVLs and Testbench architectures
+- Exposure to high speed custom building blocks, such as, IOs, PLLs, DLLs, LDOs, etc.
+- Excellent communication skills including documentation and the ability to work across multiple teams in
+multiple locations
+
+-------------------------------------------------------------------------
+JD 8:
+
+Responsibilities
+
+ End to end responsible for architecture, feasibility and modelling of analog mixed solutions through digital designs techniques.
+ Create digital IP wrapper for analog design ensuring seamless integration at the SOC level.
+ Work out the DFT solutions needed to detect manufacturing defects.
+ Understanding the customer requirements, bench marking and doing cost analysis through die size estimation, power consumption, test time.
+ For meeting the quality, timelines and milestones for successful and flawless execution of projects.
+ Contribute to setting the flow and methodology, quality Matrix for RTL sign-off analog in mixed signal design.
+ Represent the organization in various industry forums, academic circles, conferences and workshops to show case innovative solutions.
+ Working with cross functional teams during development cycle and then with PE/TE team post tape out.
+ Drive culture of innovation to ensure the IP/IC we are doing are best in class benchmarking with competition.
+ Guiding and mentoring the young engineers to develop skills and to acquire critical design competencies.
+
+--------------------------------------------------------------------
+JD 9:
+
+Responsibilities
+
+Own microarchitecture and implementation of internet protocol (IP) and subsystems.
+Work with Architecture, Firmware, and Software teams to drive feature closure and develop micro-architecture specifications.
+Drive design methodology, libraries, debug, code review in coordination with other IP design verification (DV) teams and physical design teams.
+Identify and drive power, performance and area of improvements.
+
+-------------------------------------------------------------------
+JD 10:
+
+What You’ll Do
+
+Micro-architecture specification and design.
+Deliver Performance, Area and Power-efficient RTL design.
+Specification, microarchitecture, and RTL design of accelerators, memory and network subsystems.
+Work with the architecture and software teams to achieve design targets.
+Balance performance, power, safety, and cost requirements.
+Trade-off functional, physical and performance requirements.
+Work with cross-functional teams, including implementation, verification, and performance engineers.
+Design for synthesis.
+
+---------------------------------------------------------------------
+JD 11:
+
+What You’ll Be Doing:
+
+Designing, developing, and testing bare metal firmware for advanced mixed-signal ASICs, with a focus on high-speed SerDes products.
+Collaborating with analog and digital teams to define specifications and integration requirements for IP blocks and system-on-chip (SoC) solutions.
+Executing structured firmware development processes, including verification and thorough documentation of design flows.
+Performing functional and performance tests on prototype test-chips to ensure robust operation and compliance with design specifications.
+Supporting customer teams by providing technical expertise, troubleshooting, and guidance throughout the product lifecycle.
+Contributing to project planning, tracking milestones, and ensuring timely delivery of high-quality deliverables.
+Engaging in continuous learning to stay abreast of industry advancements in SerDes standards, scripting, and digital design methodologies.
+
+------------------------------------------------------------------------
+JD 12:
+
+Roles& Responsibilities:
+
+Should have experience with ASIC micro-architecture development
+Expertise and hands on experience in Verilog/RTL design for IP/Sub-System or SoC.
+Command and thorough knowledge on digital logic design concepts.
+Should be good knowledge on Lint, CDC, RDC, constraint development, synthesis.
+Must have worked on at least one large IP/Sub-System block and have in depth knowledge of IP block design/architecture.
+Must have experience in Synopsys/Cadence/Mentor simulation tools and debugging skills.
+Desirable Perl/TCL scripting and automation knowledge
+Desirable experience in RTL logic synthesis, sdc and constraint writing experience
+Understanding of basic soc architecture std-cells, IO blocks etc.
+
+--------------------------------------------------------------------------
+JD 13:
+
+Roles And Responsibilities
+
+Performance exploration. Explore high performance strategies working with the CPU modeling team.
+Microarchitecture development and specification. From early high-level architectural exploration, through micro architectural research and arriving at a detailed specification.
+RTL ownership. Development, assessment and refinement of RTL design to target power, performance, area and timing goals.
+Functional verification support. Help the design verification team execute on the functional verification strategy.
+Performance verification support. Help verify that the RTL design meets the performance goals.
+Design delivery. Work with multi-functional engineering team to implement and validate physical design on the aspects of timing, area, reliability, testability and po
+
+-------------------------------------------------------------------
+JD 14:
+
+Key Responsibilities
+
+Lead the design and development of ground-up IP solutions, focusing on microarchitecture and RTL design.
+Collaborate with cross-functional teams to define and implement design specifications and requirements.
+Ensure the quality and performance of designs through rigorous PLDRC and synthesis processes.
+Develop and maintain detailed documentation for design processes and methodologies.
+Troubleshoot and resolve complex design issues, ensuring timely and effective solutions.
+Stay current with industry trends and best practices in IP design and related technologies.
+
+------------------------------------------------------------------
+JD 15:
+
+Responsibilities
+
+Mirco architecture & RTL development and its validation for linting, clock-domain crossing and DFT rules.
+Work with functional verification team on test-plan development and waveform debugs at core, sub-system, SoCs levels.
+Hands on experience in constraint development and timing closure.
+UPF writing, power aware equivalence checks and low power checks.
+Support performance debugs and address performance bottle necks.
+Provide support to sub-system, SoC integration and chip level debug.
+
+-----------------------------------------------------------------------
+JD 16
+
+Key Responsibilities
+
+Collaborate closely with architects, micro‑architects, and logic design teams to define and develop microarchitecture for future generations of Qualcomm’s Hexagon NPU.
+Drive RTL design in SystemVerilog, owning features from concept through tape-out
+Perform early logic synthesis, static timing analysis, and power estimation to validate design choices before full implementation.
+Evaluate the design pipeline end‑to‑end—from instruction set architecture through microarchitecture, RTL development, and synthesis feasibility.
+Utilize industry‑standard digital design tools including simulators, synthesis engines, and power/performance analysis frameworks.
+Debug, optimize, and enhance EDA tool flows; identify and resolve tool‑related issues to improve design iteration efficiency.
+
+---------------------------------------------------------------------------
+JD 17:
+
+Key Responsibilities:
+Early architectural/performance exploration through micro architectural definition and design.
+Optimize the design to meet power, performance, area and timing requirements.
+Write easily readable and synthesizable Verilog RTL.
+Run some unit level testing to deliver quality code to the Design Verification Team.
+Create assertions to improve coverage and cover points to analyze coverage of the design.
+Create well written block level design documentation.
+Participate in post silicon functional and performance debug and tuning.
+
+---------------------------------------------------------------------------
+JD 18:
+
+Key Responsibilities:
+Specification development for different functional blocks for the IOT SOC designs.
+RTL development including verilog code development, define and run verification, build test benches for self-checking verification, modeling of IP to verify RTL functionality vs. requirements
+Work with 3rd party vendors to make sure requirements are being met and risks and opportunities are properly identified and addressed
+Support lab evaluations and debug activities including board level using logic analyzers, oscilloscopes, etc.
+Work with the software team to implement changes required by the driver
+Modify the design for future enhancements to the chip’s feature set
+Assess overall chip power save modes versus external system requirement
+Evaluating system-level performance in simulation, in FPGA emulation platform, and in ASIC
