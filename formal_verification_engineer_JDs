@@ -1,0 +1,471 @@
+
+
+
+------------------------------------------------------------------------------------
+JD 1:
+
+Key Responsibilities
+
+Develop System Verilog/UVM-based testbenches for IP, subsystem, or SoC-level verification.
+Create and maintain verification plans, test cases, and coverage models.
+Implement and integrate scoreboards, monitors, checkers, assertions, and transactors for functional correctness.
+Work with Verification IP (VIP) for industry-standard protocols (AMBA, UCIe, PCIe, DDR, Ethernet, etc.) and integrate them into testbenches.
+Build reusable constrained-random and directed test scenarios.
+Debug failures, perform root cause analysis, and work closely with design and architecture teams.
+Analyze functional coverage, code coverage, and assertion coverage to ensure verification completeness.
+Participate in design/verification reviews and contribute to methodology improvements.
+Automate regression runs and maintain CI verification flows (Jenkins, Git, etc. if applicable).
+
+---------------------------------------------------------------------------
+JD 2:
+
+Job responsibilities:
+
+Develop test plans, tests and verification infrastructure for a complex IP/Sub-System or lead major deliverables for SoC
+Create verification environment using UVM methodology
+Hands on in end to end Logic Verification Process including Verification Planning, Functional Coverage planning and development, Test case development, regression, debug and Coverage closure
+Create reusable bus functional models, monitors, checkers and scoreboards
+Drive functional coverage driven verification closure.
+Work with architects, designers, and post-silicon teams
+Hands-on contributions to SVA development like coding, porting and maintaining System Verilog Assertions including Formal Verification
+Development of tools for Design and Verification support
+Debug failures and root-cause it by interacting with other teams/groups Etc.
+
+-------------------------------------------------------------------------
+JD 3:
+
+Key Responsibilities:
+
+Full-Chip Verification Ownership
+
+Lead end-to-end functional and gate-level verification including planning, environment development, execution, debug, and sign-off.
+Define and drive verification strategy, including testbench architecture, assertion strategy, scenario modelling, regression planning, and coverage targets.
+Develop and maintain UVM-based full-chip verification environments, reusable components, and infrastructure. 
+Functional, Datapath & System and Subsystem Verification
+
+Own verification of datapath flows, error handling, interrupts, resets, boot flows, power modes, and SoC integration scenarios.
+Drive end-to-end scenario testing, ensuring robustness of SoC functionality and interaction across subsystems.
+Ensure thorough functional, code, and assertion coverage closure and report progress toward sign-off criteria.
+Testbench, Tools & Infrastructure Development
+
+Build and enhance testbench components, verification libraries, and infrastructure for multi-million-gate SoCs.
+Support automation development using scripting languages such as Python, Perl, and TCL.
+Maintain version control and continuous verification practices using GIT/CVS and issue tracking tools (JIRA/Bitbucket). 
+Debug, Issue Resolution & Cross-Functional Leadership
+
+Debug complex RTL and GLS failures using industry-standard tools (VCS, Xcelium, Verdi).
+Partner with architecture, RTL design, PD, firmware, and validation teams to resolve design and integration issues.
+Provide technical leadership to junior engineers and guide them in methodology, debug, and best practices. 
+Gate-Level Simulation & GLS Sign-Off
+
+Plan and execute GLS with SDF, including test enablement, waveform/stability validation, convergence issues, false-path handling, and multi-mode timing scenarios.
+Emulation & HW/SW Co-Verification
+
+Collaborate with the emulation team for RTL bring-up on platforms such as Palladium/Zebu/HAPS/Protium.
+Support early software validation, boot diagnostics, and hardware-software integration. 
+
+-------------------------------------------------------------------------
+JD 4:
+
+Key Responsibilities
+
+Verification Planning & Execution
+Lead the definition, development, and execution of comprehensive verification plans at IP and SoC levels.
+Develop UVM/SystemVerilog-based testbenches, including stimulus generation, checkers, and monitors for advanced SoC designs.
+Drive coverage-driven verification processes, ensuring functional and code coverage goals are met.
+Cross-Functional Collaboration
+Collaborate with architecture, RTL design, firmware, software, and emulation teams to define verification requirements and ensure comprehensive test coverage.
+Participate in design and architecture reviews, providing critical feedback on functionality, testability, and performance considerations.
+Debug & Issue Resolution
+Lead debug efforts on complex SoC and IP issues through simulation, emulation, and FPGA prototypes.
+Perform root-cause analysis and drive issues to closure in partnership with cross-disciplinary teams.
+Methodology & Infrastructure Development
+Enhance and maintain verification methodologies, including reusable verification IP, automation scripts, and regression infrastructure.
+Evaluate and adopt new tools and verification technologies to improve quality and efficiency.
+Leadership & Mentorship
+Provide technical guidance and mentorship to junior verification engineers.
+Lead verification reviews and strategy discussions, ensuring high technical standards and best practices.
+
+---------------------------------------------------------------------------------
+JD 5:
+
+Key Responsibilities
+
+Develop, implement, and maintain verification environments using SystemVerilog and UVM.
+Perform test planning, test case development, debugging, and functional coverage closure.
+Verify SoC-level integration of IPs and subsystems.
+Work closely with design, architecture, and validation teams to ensure first-pass silicon success.
+Drive verification strategies, regression automation, and debug complex failures.
+
+----------------------------------------------------------------------------
+JD 6:
+
+Key Responsibilities
+
+Verification Strategy & Planning
+Develop verification plans, test strategies, and coverage models for IP/Subsystem/SoC-level verification.
+Drive UVM-based verification methodology and maintain reusable environments.
+Analyze design specifications, micro-architecture documents, and identify corner cases.
+
+Testbench & UVM Environment Development
+Architect and build complex UVM components: drivers, monitors, scoreboards, sequencers, virtual sequences.
+Develop constraint-random and directed tests to validate functionality and robustness.
+Create assertions (SVA) and checkers for functional correctness.
+
+Simulation, Debugging & Coverage
+Execute simulations using industry-standard simulators (Questa, VCS, Xcelium).
+Debug complex failures using waveform viewers and logs.
+Perform functional, code, and assertion coverage analysis and drive coverage closure.
+
+Collaboration & Leadership
+Work closely with RTL designers, architects, and firmware teams to resolve issues.
+Provide technical guidance and mentoring to junior DV engineers.
+Participate in design and verification reviews; contribute to methodology enhancements.
+
+---------------------------------------------------------------
+JD 7:
+
+Technical responsibilities:
+
+Define and develop simulation and verification environments (testbenches and frameworks) for complex SoC designs.
+Support RTL development and full-chip integration through verification planning, test writing, and debugging.
+Analyze and resolve functional issues discovered during simulation or integration phases.
+Drive continuous improvement in verification methodologies and flows.
+Collaborate cross-functionally to align with architecture and design specifications.
+
+--------------------------------------------------------------
+JD 8:
+
+In your new role you will:
+
+Create and define verification plans
+Develop verification environments for our ICs using Universal Verification Methodology (UVM)
+Draw on test scenarios using SystemVerilog
+Verify functionality using the Constrained Random approach
+Develop assertions in SystemVerilog for simulation-based and formal verification
+Interact with other disciplines, such as Concept and Application Engineering, to define verification plans and strategies
+Provide proactive support to users of our verification environment
+Be responsible for our verification methods
+
+ ----------------------------------------------------------
+ JD 9:
+
+ In your new role you will:
+
+Be in continuous and intensive contact with our development sites worldwide;
+Advise and support the experts from our business units in verification projects;
+Drive the internal exchange of know-how and experience at Infineon;
+Work out optimization opportunities in the area of verification methodology and verification coverage through integrating the results achieved into Infineon's design system and supporting their implementation in the development of new products;
+Collaborate with other disciplines (e.g. Application Engineering) to define the verification methodology and the verification plan;
+Design and develop the verification environment for ICs using the"Universal Verification Methodology" (UVM);
+Independently identify sub-modules that are particularly suitable for formal Verification and apply this methodology;
+Implement test scenarios using SystemVerilog and verify functionality using a Constrained Random Approach;
+Use the Unified Power Format (UPF) to verify the low-power aspects of our designs;
+
+----------------------------------------------------------------------------------------
+JD 10:
+
+Key Responsibilities
+
+Reading and analysing the system requirements and architecture requirement documents.
+
+Developing Verification environment development and maintenance in SystemVerilog/UVM/SystemC/C++, including all the respective components such as Stimulus, Checkers, Assertions, Trackers, and Coverage.
+
+Executing Verification Plans, including Design Bring-up, DV environment Bring-up, Regressions and Debug of the test failures.
+
+Using the standard tools and flows of the verification process (Simulators, Coverage Analyzers, Unix, Continuous Integration, Bug Tracking, …).
+
+Create and execute testcases to verify the functionality, performance, and robustness in embedded C and SV.
+
+Identify, isolate, and debug issues found during verification, leveraging simulation and debugging tools to root-cause failures and drive resolution with design and architecture teams.
+
+Work closely with cross-functional teams to achieve verification closure, conducting coverage analysis, bug tracking, and regression testing to ensure the quality and completeness of verification activities.
+
+Participation to verification methodology improvements.
+
+------------------------------------------------------------------------------
+JD 11
+
+Key Responsibilities
+Develop and execute detailed verification plans based on design specifications and micro-architecture
+Build and enhance SystemVerilog / UVM-based verification environments
+Develop reusable verification components such as drivers, monitors, scoreboards, and sequences
+Write constrained-random tests, assertions (SVA), and functional coverage
+Perform block-level, subsystem-level, and SoC-level verification
+Debug functional issues and collaborate with RTL designers to resolve defects
+Perform coverage analysis and drive coverage closure
+Review RTL and design documents to identify potential verification gaps
+Support regression testing and maintain verification infrastructure
+
+-----------------------------------------------------------------------------
+JD 12
+
+Key Responsibilities
+
+
+Develop and maintain UVM-based verification environments for ASIC/SoC IPs and subsystems
+Create verification plans, testbenches, sequences, drivers, monitors, and scoreboards
+Perform functional, code, and assertion coverage analysis and drive coverage closure
+Debug functional failures and work closely with RTL designers to resolve issues
+Write SystemVerilog assertions (SVA) for protocol and design checking
+Participate in test plan reviews, design reviews, and verification sign-off activities
+Execute regressions, analyze results, and ensure quality tape-out readiness
+Support gate-level simulations (GLS) when required
+Mentor junior engineers and contribute to verification best practices
+
+--------------------------------------------------------------------
+JD 13
+
+Responsibilities:
+ • Advanced verification using SystemVerilog, UVM, assertions & coverage
+ • Deep involvement in SoC architecture (ARM cores, cache/memory subsystems, AXI/ACE/CHI)
+ • Formal verification, emulation (Palladium/Veloce) & FPGA prototyping
+ • EDA tool expertise: VCS, Xcelium, Questa
+ • Automation using Python / Perl / Shell
+ • Complex debug, strong communication & leadership in cross-functional environments
+
+ -------------------------------------------------------------
+ JD 14:
+
+ As a Verification Engineer, the key responsibilities are the following but not limited to:
+
+Execute the pre-silicon verification of mixed-signal ICs in an UVM based environment (AMS/DMS)
+Collaborate closely with digital/analog designers, applications and system engineers, and manufacturing test to support pre-silicon verification efforts
+Implement test-benches to apply stimuli and checks to verify DUT behavior
+Write detailed verification plans to cover project requirements for top-level functionality, and construct test cases exercising the plan
+Evaluate system-level use-cases and re-create these in simulation
+Develop and maintain behavioral models (VerilogAMS / WREAL)
+Review the digital and analog design to provide guidance on Design for Verification architecture and features during chip development
+Simulate RTL and Gates+SDF, including verifying chip-level timing between analog and digital circuits, as well as closed-loop simulation with analog behavioral models
+Actively participate in the development and improvement of the existing verification flow
+
+------------------------------------------------------------
+JD 15:
+
+Key responsibilities for this Senior SoC Functional Verification Engineer position:
+
+Define and execute global verification strategies and comprehensive test plans.
+Architect and develop UVM-based testbenches and verification platforms at the IP level.
+Design and run complex SoC-level system tests to ensure robust integration.
+Analyze functional coverage metrics to achieve closure and identify architectural gaps.
+Develop high-fidelity reference models to enhance validation accuracy.
+Lead and mentor a small team of engineers and contractors to meet project milestones.
+Collaborate across Design and Software teams in a high-impact environment.
+-----------------------------------------------------------------------
+JD 16:
+
+Principal Duties And Responsibilities: 
+
+Deploying Industry-Leading Verification Methodologies
+Test plan development based on Design documents and interaction with design/systems engineers
+Writing and debugging tests
+Analyzing coverage data and working with Design teams to address coverage holes
+Develop/augment framework for running regressions
+Running/Debugging Power aware simulations
+Debugging regression failures with design/Systems teams
+Support integration of design in higher-level subsystem including test planning, test vector delivery, and debug of test vectors at the integration level
+Python/Perl automation for improving workflows and team efficiency
+Participate in project reviews
+
+-----------------------------------------------------------
+JD 17:
+
+Your main responsibilities will include:
+
+Defining the verification strategy and developing comprehensive verification plans
+Developing UVM-based testbenches and verification platforms at IP level
+Designing and executing complex SoC-level system tests
+Analyzing functional coverage metrics to ensure completeness and identify gaps
+Defining and implementing reference models for improved validation accuracy
+Collaborating closely with design, and software teams
+
+-----------------------------------------------------------
+JD 18:
+
+Key Responsibilities
+Contribute to the application of machine learning techniques aimed at streamlining traditional pre-silicon functional verification methodologies like formal verification and UVM.
+Develop agentic AI solutions using LLMs and latest ML technologies to accelerate pre-silicon Design Verification process.
+Employ AI enhanced Electronic Design Automation (EDA) tools to improve and expedite both the design and verification lifecycles.
+Engage directly with customers to understand requirements and deliver innovative, practical verification strategies.
+Collaborate effectively with machine learning and software engineering teams to validate output correctness, efficiency, and quality.
+Maintain current knowledge of advancements in AI-powered hardware verification and actively participate in fostering internal knowledge growth.
+
+---------------------------------------------------------------
+JD 19:
+
+In this role you will:
+Own the verification of one or more of: custom IP blocks, subsystems (compute, interconnect, memory, etc.), or full-chip SoC-level functionality.
+
+Define verification plans based on architecture and microarchitecture specs.
+
+Develop constrained-random, directed, and system-level testbenches using SystemVerilog/UVM or equivalent methodologies.
+
+Build and maintain stimulus generators, checkers, monitors, and scoreboards to ensure high coverage and correctness.
+
+Drive bug triage, root cause analysis, and work closely with design teams on resolution.
+
+Contribute to regression infrastructure, coverage analysis, and closure for both block- and top-level environments.
+
+-------------------------------------------------------------
+JD 20:
+
+Key Responsibilities:
+
+Develop and execute verification plans based on design specifications.
+Create and maintain SystemVerilog/UVM-based testbenches.
+Develop reusable verification components such as agents, drivers, monitors, and scoreboards.
+Perform functional verification of IP/SoC designs.
+Write test cases and debug failures at RTL and gate-level.
+Perform coverage analysis (Code & Functional coverage) and ensure closure.
+Debug simulation failures and root-cause issues.
+Work closely with design and architecture teams to resolve bugs.
+Participate in regression runs and automation.
+
+---------------------------------------------------------------------
+JD 21:
+
+Key Responsibilities
+
+Reading and analysing the system requirements and architecture requirement documents.
+Developing detailed Test and Coverage plans based on the Architecture and Micro-architec-ture.
+Developing Verification Methodology, ensuring scalability and portability across environ-ments.
+Developing Verification environment development and maintenance in SystemVeri-log/UVM/SystemC/C++, including all the respective components such as Stimulus, Checkers, Assertions, Trackers, and Coverage.
+Executing Verification Plans, including Design Bring-up, DV environment Bring-up, Regres-sions and Debug of the test failures.
+Using the standard tools and flows of the verification process (Simulators, Coverage Analyz-ers, Unix, Continuous Integration, Bug Tracking, …).
+Create and execute testcases to verify the functionality, performance, and robustness in em-bedded C and SV.
+Identify, isolate, and debug issues found during verification, leveraging simulation and debug-ging tools to root-cause failures and drive resolution with design and architecture teams.
+Work closely with cross-functional teams to achieve verification closure, conducting coverage analysis, bug tracking, and regression testing to ensure the quality and completeness of verifi-cation activities.
+Organize work and deliverables between skills, internal and external teams.
+Mentoring and training the next generation of verification engineers.
+Coordinating functional verification teams.
+
+----------------------------------------------------------------
+JD 22:
+
+Your mission
+
+Develop and maintain UVM SystemVerilog verification environments for our NoC IP.
+Elaborate and work on IP and product specification documents.
+Create and execute comprehensive functional verification plans.
+Design, implement and continuously improve verification test benches.
+Understand and debug identified errors.
+Work on coverage closure and monitor the daily regression runs.
+
+----------------------------------------------------------------
+JD 23:
+
+Principal Duties And Responsibilities: 
+
+Deploying Industry-Leading Verification Methodologies
+Test plan development based on Design documents and interaction with design/systems engineers
+Writing and debugging tests
+Analyzing coverage data and working with Design teams to address coverage holes
+Develop/augment framework for running regressions
+Running/Debugging Power aware simulations
+Debugging regression failures with design/Systems teams
+Support integration of design in higher-level subsystem including test planning, test vector delivery, and debug of test vectors at the integration level
+Python/Perl automation for improving workflows and team efficiency
+Participate in project reviews
+
+-----------------------------------------------------------------
+JD 24:
+
+Responsibilities:
+
+Define verification strategies and create comprehensive verification plans for MPPA processors.
+Develop UVM-based testbenches and verification platforms at the IP level.
+Design and execute complex SoC-level system tests to ensure robust validation.
+Analyze functional coverage metrics to assess completeness and identify verification gaps.
+Implement and maintain reference models to improve validation accuracy, collaborating closely with design and software teams.
+
+-------------------------------------------------------------
+JD 25:
+
+Your main responsibilities will include:
+
+Defining the verification strategy and developing comprehensive verification plans
+Developing UVM-based testbenches and verification platforms at IP level
+Designing and executing complex SoC-level system tests
+Analyzing functional coverage metrics to ensure completeness and identify gaps
+Defining and implementing reference models for improved validation accuracy
+Collaborating closely with design, and software teams
+
+---------------------------------------------------
+JD 26:
+
+Responsibilities
+
+What You’ll Do 
+
+Define the verification strategy and the detailed verification plans for blocks and systems 
+Coordinate/lead the verification activities in the project teams and reach verification closure for the projects 
+Develop SystemVerilog/UVM environments for blocks and top-level SoCs 
+Debug functional errors in RTL 
+Participate to verification methodology improvement activities 
+Coach and mentor younger engineers 
+
+----------------------------------------------------
+JD 27:
+
+Key Responsibilities
+
+Develop and maintain SystemVerilog/UVM-based verification environments for IP/SoC-level designs
+Perform protocol-level verification for PCIe Gen 5+ and UCIe
+Define verification plans, coverage models, and test scenarios
+Develop reusable testbenches, sequences, drivers, monitors, and scoreboards
+Analyze functional coverage, debug failures, and close coverage
+Work closely with design, architecture, and validation teams to ensure protocol compliance
+Support regression execution and issue triage
+Ensure verification quality, completeness, and on-time delivery
+
+-------------------------------------------------
+JD 28:
+
+Key responsibilities:
+
+Own verification strategy and test plan for PCIe Gen5/Gen6 controller/IP at block, subsystem, and SoC level.
+Architect, develop, and maintain UVMbased verification environments, agents, scoreboards, and coverage for PCIe and related highspeed interfaces.
+Develop constrainedrandom and directed tests in SystemVerilog/UVM to validate protocol features, LTSSM states, power management, error handling, and link training for Gen5/Gen6.
+Collaborate closely with RTL, architecture, and validation teams to refine specifications, review microarchitecture, and close functional and code coverage.
+Debug complex failures using simulation, waveforms, assertions, and protocol analyzers; drive rootcause and issue closure with crossfunctional teams.
+Integrate and use PCIe VIP, checkers, and protocol compliance suites; ensure adherence to PCIe Base specifications and ecosystem interoperability requirements.
+Contribute to verification methodology improvements, scripting/automation for regressions, and best practices for highspeed protocol verification.
+Mentor junior engineers on UVM, PCIe protocol concepts, and debug techniques as a technical goto person in the
+
+--------------------------------------------------------
+JD 29:
+
+Key Responsibilities
+
+Develop SystemVerilog-based UVM verification environments for complex IP and SoC designs.
+
+Create verification plans, testcases, and functional coverage models based on architecture and micro-architecture specifications.
+
+Implement UVM components such as drivers, monitors, agents, scoreboards, and sequences.
+
+Develop constrained-random stimulus and directed tests to verify corner-case scenarios.
+
+Write SystemVerilog Assertions (SVA) for protocol and design behavior validation.
+
+Perform block-level, subsystem-level, and SoC-level verification.
+
+Analyze simulation results and debug failures using waveform debugging tools.
+
+Track functional coverage closure and regression results.
+
+Collaborate closely with RTL designers, architects, and validation teams to resolve design issues.
+
+-----------------------------------------------------------
+JD 30:
+
+Key Responsibilities
+
+Define verification strategies and test plans for SoC subsystems and IP blocks.
+Build scalable UVM testbench architectures with reusable verification components.
+Develop drivers, monitors, scoreboards, and coverage collectors.
+Execute constrained-random verification flows and analyze coverage metrics.
+Integrate Verification IP (VIP) for protocol verification such as AMBA, PCIe, or DDR.
+Perform regression testing and failure triage using simulation and debugging tools.
+Work with RTL teams to reproduce and resolve design bugs.
+Automate verification tasks using Python, Perl, or TCL scripts.
+Ensure verification completeness through coverage-driven verification methodologies.
