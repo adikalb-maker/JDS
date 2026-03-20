@@ -394,3 +394,177 @@ Debugging: Identify, troubleshoot, and resolve complex RTL design issues by anal
 Collaboration: Partner with RTL design engineers to define formal properties and ensure efficient bug resolution.
 Continuous Improvement: Advocate for best practices, contribute to process improvements, and maintain up-to-date expertise in evolving verification methodologies.
 Reporting: Prepare and submit detailed verification status reports, test plans, and findings for internal and external stakeholders.
+
+-----------------------------------------------------------------------------
+JD 31:
+
+s a formal verification engineer working the complete formal verification for single or multiple design blocks and IP’s (CPU, Connectivity IP, Audio and Image Processing IP, Neural Networks IP, Memory/DMA Controller, Security IP, Peripheral IP, Interconnects, Power management subsystems, etc.), you will be responsible for: - 
+
+Working with Silicon's world-class design engineers to develop a formal micro-architecture specification 
+Developing comprehensive formal verification test plan that includes unique verification requirement 
+Proving properties of the design, finding design bugs, and working closely with design teams to help improve the micro-architecture. 
+Crafting novel and creative solutions for modelling and proving robustness of complex design micro-architectures 
+Developing and implementing re-usable and optimized formal models and verification code base 
+Architecting correct-by-construction design methodologies for improved formal verification efficiency and productivity.
+Understanding of temporal logic assertions
+Experience with at least one formal verification tool (e.g., Cadence Jasper, Synopsys VC-Formal).
+Experience with complex verification projects that used formal techniques for closure
+Skills in Python, Perl, or Shell scripting (a plus).
+
+-----------------------------------------------------------------------------------------
+JD 32:
+
+Key Responsibilities:
+
+Develop and execute formal verification strategies for RTL designs.
+Write SystemVerilog Assertions (SVA) and properties.
+Perform property checking, equivalence checking, and model checking.
+Debug and analyze formal failures and counterexamples.
+Collaborate with design and verification teams to close coverage gaps.
+Ensure functional correctness and improve design quality.
+Drive formal coverage closure and ensure completeness.
+Participate in design reviews and provide verification insights.
+
+--------------------------------------------------------------------------------------
+JD 33:
+
+Key Responsibilities:
+
+· Contribute to Formal Verification applying and evangelizing state of the art Formal Verification Methodologies across IP-level, subsystem-level and SOC Level.
+
+· Collaborate with Architecture and Design teams to develop formal specifications and implementations.
+
+· Define formal verification scope, create formal environments, and achieve coverage sign-off using targeted formal verification techniques.
+
+· Develop comprehensive formal test plans, including unique security requirement verification.
+
+· Build reusable and scalable formal verification environments and deploy relevant tools.
+
+· Evaluate and recommend EDA solutions for Formal Verification and drive improvements to methodologies and flows.
+
+· Debug complex issues in RTL designs based on formal results and contribute to design improvements.
+
+------------------------------------------------------------------------------------------
+JD 34:
+
+Your Role And Responsibilities
+
+
+As a Functional verification engineer, you will be working on IBM server processors/SOC or ASICs used in IBM servers.
+Lead the development of the verification plans, environment, testbenches and writing testcases to verify Cache structures & protocols in processor.
+Develop skills in IBM Functional verification tools and methodologies.
+Work with design as well as other key stakeholders in debugging and fixing logic design issues and deliver a quality design
+Work with development team to ensure coverage criteria is met.
+
+------------------------------------------------------------------------------------------
+JD 35:
+
+Working closely with the design architecture team and contributing to IP, performance and SoC related verification.
+Playing a key role in development of verification infrastructure, which would involve VIPs, different memory models, monitors, etc.
+Writing configurable testbenches in SystemVerilog/UVM and testbench automation.
+Writing System verilog assertions and maintaining them.
+Writing functional coverage and overall functional and code coverage analysis.
+Working on ASIC power estimation and power-aware verification.
+Working on Gate Level Simulation and Emulators
+Automating tool flows and creation of result reports.
+
+----------------------------------------------------------------------------------------
+JD 36:
+
+Key Responsibilities
+
+Formal Property Verification (FPV) Ownership
+
+Develop, implement, and execute block-level and subsystem-level formal verification plans.
+Write, qualify, and maintain SystemVerilog Assertions (SVAs) and formal properties ensuring full functional intent is captured.
+Drive property convergence, coverage closure, and modeling of constraints and abstractions needed for formal completeness.
+Analyze unreachable or failing properties and work with design and architecture teams to refine specifications or fix design issues.
+
+Connectivity and Structural Verification
+Own connectivity verification Complex SoC, ensuring structural correctness of interconnects, control paths, resets, clocks, interrupt lines, and memory maps.
+Validate structural rules, detect connectivity mismatches, and ensure alignment with architectural specs.
+
+Collaboration With RTL, Architecture & Full-Chip Verification Teams
+Partner with RTL designers and SoC architects to understand design intent, microarchitecture, and corner-case requirements.
+Support integration teams with structural checks, static rule validation, and early bug discovery.
+Provide clear documentation of formal verification results, coverage status, and sign-off readiness.
+
+Debug & Issue Resolution
+Debug complex failures using waveforms, formal counterexamples, and design traces.
+Collaborate cross-functionally to resolve property failures, unreachable states, and integration mismatches.
+Provide actionable insights to design teams for specification alignment and design correction.
+
+Tool, Infrastructure & Automation
+Work with formal verification tools (JasperGold, VC Formal, Questa PropCheck, etc.) to run proofs, coverage, and abstraction flows.
+Build or enhance formal verification infrastructure, scripts, checkers, libraries, and connectivity test frameworks.
+Use scripting languages (Python, Perl, TCL) to improve automation and efficiency.
+
+Documentation & Technical Communication
+Prepare detailed reports on FPV status, property coverage, connectivity results, and sign-off compliance.
+Communicate verification risks, gaps, and progress clearly to project leadership and cross-functional teams.
+
+------------------------------------------------------------------------------------
+JD 37:
+
+What You'll Be Doing:
+
+* Specifying, implementing, and maintaining an integrated end-to-end formal verification flow for the formal verification objective.
+
+* Guiding and training team members on effective usage of FV tools.
+
+* Reviewing formal setups and proofs with design and verification teams.
+
+* Maintaining and extending assertion libraries, including support for both simulation and formal verification.
+
+* Identifying key behaviors for verification of DUT and creating a formal verification plan.
+
+* Developing verification environments, including environment assumptions, assertions, and cover properties in the context of the verification plan.
+
+* Applying various formal verification techniques to prove the correctness of digital designs.
+
+* Debugging RTL to identify causes of failure scenarios.
+
+-----------------------------------------------------------------------------------------
+JD 38:
+
+Job Description:
+
+Strong experience in Formal Verification methodologies
+Hands-on expertise in SystemVerilog Assertions (SVA)
+Solid understanding of RTL design and micro-architecture
+Experience with equivalence checking (LEC/SEC)
+Knowledge of CDC/RDC verification
+Good debugging skills using counterexamples and traces
+
+---------------------------------------------------------------------------
+JD 39:
+
+Key Responsibilities
+
+Derive formal properties directly from micro-architecture and specifications
+Develop SystemVerilog Assertions (SVA) for safety, liveness, and protocol correctness
+Perform bounded and unbounded model checking
+Analyze counterexamples (CEX) to identify design bugs and constraint issues
+Detect and resolve vacuity, over-constraint, and unreachable state conditions
+Apply abstraction techniques (cutpoints, assume-guarantee, black-boxing) to improve convergence
+Track formal coverage (proof coverage, cone-of-influence, state coverage)
+Partition large designs into formal-friendly blocks for scalability
+Drive formal verification closure and sign-off
+
+-------------------------------------------------------------------------
+JD 40:
+
+WHAT YOU WILL DO
+
+Develop and execute formal verification plans using strong knowledge of formal methodologies and verification strategies
+Create formal properties using SystemVerilog Assertions (SVA) / PSL by converting design specifications into assertion-based models
+Perform formal analysis using model checking techniques (BMC, induction, state-space exploration)
+Apply constraint modeling and assumption techniques to guide formal engines and improve proof convergence
+Debug design issues using counterexample (CEX) analysis, with strong skills in root-cause debugging of formal failures
+Identify and resolve over-constraint, under-constraint, vacuity, and unreachable state conditions using formal analysis techniques
+Use abstraction methods (cutpoints, black-boxing, assume-guarantee reasoning) to reduce state-space complexity and improve scalability
+Analyze formal results to detect corner-case bugs and design inconsistencies using exhaustive verification approaches
+Track verification progress using formal coverage metrics (proof coverage, cone-of-influence, state coverage)
+Collaborate with RTL/design teams using strong understanding of digital design and RTL behavior (Verilog/SystemVerilog)
+Optimize formal runs using knowledge of formal tool behavior and convergence techniques
+Contribute to formal verification methodology development and best practices
