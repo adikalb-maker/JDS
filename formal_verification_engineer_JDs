@@ -695,3 +695,47 @@ Methodology & Infrastructure Development
 Maintain and enhance formal infrastructure (flows, abstraction techniques, tools)
 Investigate new formal techniques and define reusable verification methodologies for the team
 
+-------------------------------------------------------------------------------
+JD 51:
+
+Your primary responsibilities include:
+
+Establishing technical credibility and building strong relationships with clients, who may range from newcomers to seasoned experts in formal verification.
+
+Your role involves delivering exceptional reactive support, proactive training, and expert consultation to ensure users derive maximum benefit from our products.
+
+Additionally, you'll partner with R&D teams to introduce innovative formal flows and applications to customers, advocate for their needs, and assist in the development of competitive and inventive solutions.
+
+To maintain Cadence's edge in the industry, you are expected to stay informed about the competitive landscape and continually seek ways to distinguish our offerings.
+
+Mentoring junior AE team members and fostering a collaborative, team-oriented environment is integral to this role.
+
+Representing Cadence at technical conferences and trade shows provides you an opportunity to showcase our expertise and connect with industry peers.
+
+-------------------------------------------------------------------------------
+JD 52:
+
+ASIC Engineer, Formal Verification Responsibilities:
+
+Provide technical leadership in Formal Verification
+Propose, implement and evangelize the Formal Verification Methodology to be used across the group, both at the top level and at the block level
+Work with Architecture and Design team to come up with formal specification and implementation
+Define formal verification scope, create formal environment and close coverage with targeted Formal Verification Techniques at IP, Subsystem and SoC level
+Build reusable/scalable environments for Formal Verification and deploying the tools
+Evaluate and recommend EDA solutions for Formal Verification
+Provide training for internal teams and mentoring engineers related to Formal Verification Technology
+
+----------------------------------------------------------------------------------
+JD 53:
+
+Key Responsibilities
+Develop and execute formal verification plans aligned with RTL and micro-architecture specifications
+Convert design intent into formal properties using SystemVerilog Assertions (SVA) / PSL
+Perform model checking (bounded model checking, induction) to validate design behavior
+Analyze counterexamples (CEX) to debug design issues and identify root causes
+Apply constraint modeling to guide formal engines and improve proof convergence
+Detect and resolve vacuous proofs, over-constrained conditions, and unreachable states
+Use abstraction techniques (cutpoints, assume-guarantee reasoning) to reduce complexity
+Track formal coverage metrics (proof coverage, cone-of-influence) and drive closure
+Collaborate with RTL designers to improve design correctness and formal readiness
+Contribute to formal methodology improvements and best practices
