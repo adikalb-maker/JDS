@@ -568,3 +568,130 @@ Track verification progress using formal coverage metrics (proof coverage, cone-
 Collaborate with RTL/design teams using strong understanding of digital design and RTL behavior (Verilog/SystemVerilog)
 Optimize formal runs using knowledge of formal tool behavior and convergence techniques
 Contribute to formal verification methodology development and best practices
+
+-------------------------------------------------------------------------------------
+JD 41:
+
+What Will You Be Doing
+
+Identify key behaviors for verification to write clear testplans for complex designs.
+Implement testplans using the latest formal techniques, including the development of environment assumptions, assertions and cover properties.
+Develop abstraction models to overcome complexity challenges and obtain full proofs, or bounded proofs with sufficient coverage.
+Drive tools to realize their best performance.
+Debug RTL to identify causes of failure scenarios.
+Contribute to flow and script development to improve team efficiency.
+Articulate formal verification coverage of the design to partners.
+
+-------------------------------------------------------------------------------
+JD 42:
+
+What You'll Be Doing
+
+In this position you will use formal verification algorithms to formally prove the correctness of complicated logic problems.
+You will work on ambitious designs along with our Pre-Silicon team and take part in developing the next generation of NVIDIA's core technology.
+You will work on developing new formal verification methodologies and tactics.
+
+----------------------------------------------------------------------------
+JD 43:
+
+You will:
+
+Be responsible for the delivery of formal verification activities related to a GPU component or sub-system from early stages of verification planning to sign-off 
+Design and implement formal verification strategies to achieve our design quality goals. 
+Root-cause design issues in collaboration with other engineers. 
+Research new formal verification techniques and continuously drive the scope of what can be achieved with formal verification. 
+Create verification plans, develop and maintain formal methodology and complex benches 
+Track and report verification metrics and closure 
+Participate in all stages of design specification definition providing feedback from the verification perspective 
+Be responsible for the definition, effort estimation and tracking of your own work 
+Be able to influence and advance our GPU verification methodology 
+Have the opportunity to lead, coach and mentor other members of the team 
+Participate in design and verification reviews and recommend improvements 
+Contribute to team shared knowledge via open discussions and presentations 
+
+--------------------------------------------------------------------------
+JD 44:
+
+What You’ll Be Doing
+
+In-House Tool Evolution: Partner closely with internal CAD teams to integrate AI capabilities directly into our proprietary FV infrastructure.
+Methodology Architecture: Define and evolve the FV team’s specialized methodologies, moving from manual property writing to AI-automated assertions.
+Next-Gen Orchestration: Develop and integrate AI agents and ML models that interface with our toolchain to automate "intent-to-assertion" workflows and optimize coverage and convergence.
+Intelligent Debugging: Create AI-based debug assistants that analyze formal counter-examples, categorize failures, and autonomously suggest fixes for complex logic problems.
+Collaborative Intelligence: Act as the bridge between the FV team, Design Technology AI, and CAD groups to ensure our AI solutions provide end-to-end efficiency from RTL to A0 tapeout.
+Leadership & Training: Act as the authority on AI integration, training the broader team on how to leverage "human-in-the-loop" AI tools and automated methodologies.
+
+-----------------------------------------------------------------------------
+JD 45:
+
+What you will do
+
+Lead formal verification of GPU components and subsystems from planning through to sign-off
+Develop and implement formal verification strategies to meet design quality goals
+Investigate and root-cause complex design issues in collaboration with design and verification teams
+Apply advanced formal verification techniques to enable exhaustive proofs and deep bug detection
+Develop and maintain verification plans, methodologies, and formal environments
+Track verification progress, metrics, and closure
+Provide verification feedback during architecture and specification reviews
+
+------------------------------------------------------------------------
+JD 46:
+
+Key Responsibilities
+
+Own and develop formal verification environments from scratch through to sign-off
+Apply formal verification methodologies and strategies to prove the correctness of intricate designs
+Work closely with the Architecture, Design, and DV teams to identify verification needs and pinpoint design requirements
+Create robust formal environments, analyze complex RTL designs, and apply advanced formal techniques to find corner-case bugs
+Analyze verification results, identify failures, and collaborate directly with designers to resolve issues efficiently
+Architect and develop generic, common formal functions and properties to be reused across multiple projects
+
+--------------------------------------------------------------------
+JD 47:
+
+Summary:
+As a Formal Verification Engineer, you will ensure design correctness using mathematical methods such as model checking and equivalence checking. 
+Your typical day will involve analyzing design specifications, developing formal models, and applying verification techniques to detect corner-case bugs early in the design cycle
+ultimately improving quality and reducing verification time.
+Roles & Responsibilities:
+Experience in full chip verification cycle:test planning, verification code writing, running tests, RTL debug, and verification closure.Create and use verification components and environments in standard verification methodologies.
+Collaborate with design engineers to debug tests and deliver functionally correct design blocks
+
+--------------------------------------------------------------------
+JD 48:
+
+Verification of Test Chips and DDRPHY: Connectivity verification for Test chips, Block level property verification for DDR PHY along with other use cases.
+Good understanding of Formal property verification, In-depth knowledge in formal verification algorithms, engines and use cases.
+Proven expertise in system Verilog assertion and abstract model development.
+Proven expertise in developing formal verification infrastructure for FPV, DPV, SEQ and other use cases is strongly.
+Contributes to test plan development.
+Experience in formal tools - Cadence Jasper Gold, Synopsys VC Formal
+
+----------------------------------------------------------------------
+JD 49:
+
+KEY RESPONSIBILITIES:
+
+Work on full chip Formal Verifcation on multiple ASICs across different technology nodes.
+Work closely with architecture, RTL and Physical Design team to ensure robust design
+Work witih RTL and PD team on Conformal ECO generation to reduce TAT
+Work closely with CAD team to come up with new flows and methodologies in the FV domain
+
+----------------------------------------------------------------------
+JD 50:
+
+Key Responsibilities
+
+Formal Verification & Proof Development
+Perform formal verification (model checking, equivalence checking) on CPU microarchitecture/IP blocks.
+Develop formal proofs, abstraction models, and convergence methodologies to maximize coverage and bug hunting.
+Test Planning & Strategy
+Generate comprehensive formal verification plans: scope, coverage goals, strategy, and proof approaches.
+Lead ROI analysis to balance formal vs. dynamic methodologies.
+Collaboration & Debugging
+Work with architects, RTL designers, and verification teams to resolve failing assertions and improve design quality. Look for potential sign-off for critical blocks to guarantee exhaustive proof and reduce silicon escapes.
+Support post-silicon failure debug and sighting resolution when required.
+Methodology & Infrastructure Development
+Maintain and enhance formal infrastructure (flows, abstraction techniques, tools)
+Investigate new formal techniques and define reusable verification methodologies for the team
+
