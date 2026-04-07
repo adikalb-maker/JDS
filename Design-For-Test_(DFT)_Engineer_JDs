@@ -1,0 +1,179 @@
+
+
+-----------------------------------------------------------------------
+JD 1
+
+Key responsibilities include:
+
+Define DFT architecture at chip and subsystem levels.
+Drive testability requirements during the RTL design phase.
+Lead scan insertion, ATPG, and sign-off processes.
+Support first silicon bring-up and debug issues.
+Mentor junior and senior DFT engineers.
+Collaborate with RTL designers and product engineering teams.
+
+---------------------------------------------------------------------
+JD 2:
+
+Key responsibilities include:
+
+Defining DFT architecture and collaborating with product and test engineering teams.
+Implementing and optimizing SCAN and MBIST insertion flows.
+Conducting post-silicon bring-up and supporting failure analysis.
+Improving DFT methodology to align with industry best practices.
+Guiding new team members in DFT methodologies and practices.
+
+-----------------------------------------------------------------
+JD 3:
+
+Your Impact
+Responsible for implementing the Hardware Design-for-Test (DFT) features that support ATE, in-system test, debug and diagnostics needs of the designs.
+Responsible for development of innovative DFT IP in collaboration with the multi-functional teams, and play a key role in full chip design integration with the testability features coordinated in the RTL.
+Work closely with the design/design-verification and PD teams to enable the integration and validation of the Test logic in all phases of the implementation and post silicon validation flows.
+The job requires the candidate to have the ability to craft solutions and debug with minimal mentorship.
+
+------------------------------------------------------------
+JD 4:
+
+Your Role
+Will be responsible for Designing and Implementing DFT techniques.
+Should hava a good understanding of Memory BIST/Scan /OnChip Compression/At-speed Scan/Test-clocking/Boundary Scan/Analog Testing/Pin-muxing/LogicBIST on complex SOCs to improve testability.
+Test Modes implementation and verification, scan insertion including on-chip compression.
+Implementing, integrating and verifying memory BIST and boundary scan.
+ATPG Test vector (Stuck-at/At-speed/Path delay/SDD/IDDQ/Bridging fault) generation with high test Coverage and simulations at gate level with timing (SDF).
+Basic understanding of complete SOC design and flow.
+Cross functional teams interaction for issue resolution.
+Participate in driving new DFT methodology and solutions to improve quality, reliability and insystem test and debug capability.
+Hiring candidate with these specific personal characteristic and qualifications.
+Mentoring junior Engineerings and drive innovation/automation.
+Excellent in problem solving and analytical skills.
+Excellent communication, team work and networking skills
+
+--------------------------------------------------------
+JD 5:
+
+
+Key Responsibilities :
+
+- Define and implement DFT architecture for IPs and full chip SoCs
+- Perform scan insertion, scan compression, and scan chain validation
+- Develop and support ATPG flows for stuck at, transition, and at's peed testing
+- Implement and debug MBIST, LBIST, and memory test architectures
+- Integrate and validate JTAG / Boundary Scan (IEEE 1149.x)
+- Generate, simulate, and analyze ATPG patterns and fault coverage reports
+- Debug DFT issues across RTL, synthesis, and gate?level simulations
+- Collaborate with design, verification, physical design, and test engineering teams
+- Support silicon brings?up, test failure analysis, and yield improvement
+- Ensure alignment to automotive quality and safety requirements
+
+--------------------------------------------------------------
+JD 6:
+
+Roles and Responsibility
+Design and develop test plans and strategies for complex digital systems.
+Develop and implement scan insertion and ATPG techniques to ensure thorough testing.
+Collaborate with cross-functional teams to identify and resolve design issues.
+Analyze and troubleshoot test results to identify trends and areas for improvement.
+Develop and maintain technical documentation of testing procedures and results.
+Participate in the development of new testing methodologies and technologies.
+
+---------------------------------------------------------------------
+JD 7:
+
+The DFT Engineer responsibilities
+
+Expertise in DfT methodology like scan test, boundary-scan and test access mechanisms
+Scan Insertion, ATPG, scan verification and pattern generation
+Memory BIST insertion, validation and pattern generation
+SoC DFT architecture specification including test mixing and DfT RTL coding
+Experience with the DFT integration of IP
+Analysis of Functional Design for Testability, including product functionality and access through external connections, BIST and Board Level Diagnostics, control of significant circuits, and isolation of functional blocks for testing
+Create and maintain DFT timing constraints
+Experience in gate level simulation
+Knowledge in RF/mixed-signal circuit design and test
+
+------------------------------------------------------------------------
+JD 8:
+
+About the Role
+Responsible for implementing the hardware Memory BIST (MBIST) features that support ATE, in-system test, debug and diagnostics needs of the memories in design.
+
+Responsibilities:
+
+Work closely with the design, design-verification, and backend teams to enable the integration and validation of the test logic in all phases of the design, and backend implementation flow.
+The job requires the candidate to have good scripting skills and the ability to design and debug with minimal oversight.
+Involve in high quality pattern release to test team and support silicon bring-up and yield improvement.
+
+----------------------------------------------------------------------
+JD 9:
+
+Roles and Responsibility
+
+Design and develop test plans and procedures for digital circuits.
+Perform MBIST Insertion and Simulation/Verification to ensure circuit reliability.
+Collaborate with cross-functional teams to identify and resolve design issues.
+Develop and maintain technical documentation of test plans and results.
+Troubleshoot and debug complex digital circuits.
+Participate in the development of new testing methodologies and techniques.
+
+--------------------------------------------------------------------
+JD 10:
+
+Key Responsibilities :
+
+
+DFT Architecture & Planning :
+
+- Define and implement DFT architecture for complex SoCs and IPs covering scan, MBIST, LBIST, and boundary scan (IEEE 1149.x).
+- Develop DFT specifications aligned with SoC requirements, test coverage goals, and manufacturing test constraints.
+- Drive clock/reset/power domain-based DFT partitioning, test mode planning, and integration with SoC design flow.
+
+Scan & ATPG Implementation
+- Perform scan insertion and test point insertion at block and SoC level using industry-standard tools.
+
+---------------------------------------------------------------
+JD 11:
+
+What will you be doing:
+
+Participate in ground breaking Processor design and debug in deep submicron technologies.
+Work in a multi functional team passionate about Silicon characterization and correlation to pre-Silicon Performance and Power models.
+Responsible for generating ATPG patterns for Silicon speed path debug.
+RTL and gate level verification for ATPG, non-ATPG patterns.
+Correlating diagnosis result to map to real design failures. Root cause the same feed learnings to pre-silicon design sign off parameters.
+RAM correlation by studying RAM circuit failure mechanisms and understanding their limits on silicon
+Bring in more circuit understanding into the RAM testing methods across RAM types, chips and processes and improve correlation in the long run
+Develop new methodologies using DFT infrastructure to analyze components of mis-correlation in logic and in/around RAM.
+
+-------------------------------------------------------------------------------------
+JD 12:
+
+What you ll be doing:
+
+Implement and integrate scan insertion and scan compression at gate/RTL level.
+Support Scan ATPG, pattern validation, and silicon bring-up of scan-related DFT features.
+Perform gate-level verification, debug DFT/scan issues, and support ECOs.
+Develop and improve DFX/DFT methodologies for next-generation designs.
+Work closely with CAD and external CAD venders in developing next DFX architectures in nvidia chips
+Collaborate with design, verification, and physical design teams to ensure DFX readiness.
+
+-------------------------------------------------------------------------
+JD 13:
+
+Essential Responsibilities :
+Lead the DFT architecture for test chip designs.
+Develop and maintain DFT methodologies for the team.
+Possess strong knowledge of MBIST, at speed testing, test clocking, and port mixing.
+Own and deliver test architectures including Scan, Mem BIST, ATPG, and provide post silicon support.
+Collaborate effectively with cross functional design, verification, and physical design teams to ensure seamless BIST integration and validation
+
+-----------------------------------------------------------------------
+JD 14:
+
+Key Responsibilities:
+
+Implement and validate JTAG, Scan, MBIST, and ATPG
+Work on ATPG & MBIST tools (Tessent is mandatory)
+Develop and debug SystemVerilog / UVM testbenches
+Perform gate-level simulations using MBIST patterns
+Support silicon debug and DFT validation
