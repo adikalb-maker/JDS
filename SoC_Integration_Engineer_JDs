@@ -1,0 +1,185 @@
+
+
+
+JD 1
+
+Responsibilities
+Participate in the design, implementation and integration of Chassis, subsystems and SoC.
+Perform RTL coding, function/performance simulation debug, and Lint/Clock-Domain Crossing (CDC)/Formal Verification(FV)/Unified Power Format (UPF) checks.
+Participate in design debug, and code review in coordination with other IPs Design Verification (DV) teams and physical design teams.
+Coordinate with various IP teams to meet schedule and quality requirements.
+Communicate and work with multi-disciplined and multi-site teams.
+
+--------------------------------------------------------------------------------------------
+JD 2
+
+RESPONSIBILITIES:
+
+
+Solution Architecture and Design
+
+
+Become an expert on InCore’s proprietary IP and automation tools and how to utilize them for customer needs
+Own and drive relationships with external technical audiences of all kinds from engineer to CTO to understand business objectives and translate requirements into solutions.
+Maintain a deep understanding of the product and speak with customers about the most relevant features/functionality for their specific business needs
+Work hand-in-hand with InCore's Sales team to develop application demos and technical collateral, and help customers make the most of InCore products
+Discover new problems which the customer has and increase adoption of InCore’s technology wherever applicable
+
+Integration and Delivery:
+
+
+Provide technical leadership and guidance to our customers while they integrate InCore into their SoCs
+Utilize technical acumen to drive high-quality integrations while accelerating time-to-market
+Create technical content (sample code, demos, etc. ) to show customers how to implement specific use cases or best practices
+Manage evaluations to ensure that the products meet the client's requirements
+Be the single technical point of contact for our customers and act as an escalation point to drive resolution in a timely, proactive manner
+
+Competence Building
+
+
+Focus on personal competence building across all stages of customer success
+Constantly learn better ways to understand problems, manage situations, build trust and deeper relationships and help clients derive value out of the product
+Sharpen your communication skills to understand the requirements of a client and resolve differences in opinion
+Maintain composure through tough situations faced during the interaction with the client
+Share and build a best-practices knowledge base
+Learn to build relationships with the client where they feel comfortable to discuss all problems and issues openly
+
+-------------------------------------------------------------------------------------------
+JD 3:
+
+KEY RESPONSIBILITIES
+
+
+Solution Architecture & Technical Enablement
+
+
+Master InCore’s Core Generation Methodology and guide customers in integrating custom core IPs into their SoCs.
+Lead customer discussions with engineering and leadership teams (CTOs, architects, design leads) to architect solutions aligned with business needs.
+Build technical collateral including app notes, demo setups, and proof-of-concept designs tailored to customer use cases.
+Proactively identify opportunities for expanding the use of InCore’s products within customer roadmaps.
+
+Integration & Delivery
+
+
+Own technical delivery and post-sales integration of InCore IP in customer SoCs.
+Lead debugging, validation, and performance-tuning efforts on customer hardware and simulation platforms.
+Create and maintain scripts, sample code, and automated flows to simplify customer adoption.
+Manage technical escalations, coordinate with internal teams, and ensure high-quality, timely issue resolution.
+
+Customer Success & Relationship Management
+
+
+Act as the senior technical point-of-contact for key customer accounts.
+Mentor junior engineers and help institutionalize customer engagement processes.
+Work closely with Sales and Product teams to convert feedback into roadmap inputs.
+
+Internal Advocacy & Process Improvement
+
+
+Document key learnings and use them to refine customer engagement playbooks
+Support pre-sales efforts by participating in technical pitches and evaluations.
+Identify recurring issues and contribute to tooling and automation initiatives.
+
+-------------------------------------------------------------------------------------------------
+JD 4
+
+Job Description:
+
+Verification engineer with a knowledge of SoC integration verification, SoC scenario verification, SoC performance verification, CHI/DDRx/LPDDRx/AI accelarator integration verification in SoC RTL.
+Your key responsibilities will include writing test plans, defining test methodologies, developing C based software tests, SystemVerilog/Verilog testbenches and tests, and debugging of test failures and issues.
+Working with project management and leads on planning tasks, schedules, and reporting progress
+Collaborate with engineers from other teams including architecture, design, implementation, modelling, performance analysis, silicon validation, FPGA and board development
+
+-----------------------------------------------------------------------
+JD 5
+
+What you'll be doing:
+
+Define and develop system-level methodologies, tools, and IPs to build SOCs in an efficient and scalable manner.
+
+Identify pain points and inefficiencies in the front-end chip implementation process and propose ideas to solve them.
+
+Responsible for front-end design quality checks, reviews and driving those with cross-functional teams.
+
+-----------------------------------------------------------------------------
+JD 6
+
+What you'll be doing:
+
+Drive SOC Assembly and design chip level functions for Tegra SOCs.
+
+Responsible for front-end design quality/correctness checks, reviews and driving those with multi-functional teams.
+
+Drive SOC execution across chip milestones working with all multi-functional teams to help define, track and drive complex dependencies.
+
+Define and develop system-level methodologies, tools, and IPs to build SOCs in an efficient and scalable manner.
+
+Identify difficulties and inefficiencies in the front-end chip implementation process and propose and implement ideas to solve them.
+
+---------------------------------------------------------------------------------
+JD 7:
+
+What You’ll Be Doing:
+Collaborating with a global team to carry out processor and subsystem verification for advanced SoC designs.
+Developing state-of-the-art verification environments, test scenarios, checkers, and assertions using System Verilog and UVM.
+Participating in verification planning, reviews, progress tracking, and achieving verification closure.
+Interacting and collaborating with stakeholders across design, DFT, physical design, prototyping, and other domains to ensure seamless project execution.
+ing expertise in standard protocols (AXI, APB, AHB) and processor architectures (x86, ARM, RISC-V, MIPS) to validate complex subsystems.
+Driving the resolution of critical issues, debugging failures, and ensuring high-quality deliverables within project timelines.
+Leveraging scripting skills (Perl, Python) to automate verification flows and enhance efficiency.
+
+-----------------------------------------------------------------------
+JD 8:
+
+Key Responsibilities:
+
+Define integration strategies and plans.
+Coordinate with design, test, and manufacturing teams.
+Validate system-level functionality and performance.
+Resolve integration issues across hardware and software.
+Document integration processes and results.
+https://in.joblum.com/job/integration-engineer-semiconductor/7278840?utm_source=chatgpt.com
+
+--------------------------------------------------------------------
+JD 9:
+
+Key Responsibilities
+
+
+•Perform daily/weekly builds for Qualcomm-based platforms (Android / Modem / BSP)
+
+
+•Generate engineering, debug, and release builds
+
+
+•Resolve merge conflicts and build failures
+
+
+•Debug compilation and dependency issues
+
+
+•Support CI/CD pipelines (Jenkins or similar)
+
+
+•Automate build and artifact generation
+
+
+•Prepare release notes and documentation
+
+
+•Coordinate build deliveries to QA and customers
+
+-------------------------------------------------------------------------
+JD 10
+
+Your Job:
+
+The roles and responsibilities will include engaging in daily tapeout operations such as Design Rule Checking (DRC), data preparation (manufacturing readiness), and mask data verification.
+To own tapeouts and New Product Introduction Silicon manage independently to meet customer's requirement and first-time proto success.
+Work closely with Fabs, OPC teams, Tapeout Logistics, and Tapeout Integration groups to help ensure smooth and accurate tapeouts to Release to Manufacturing (RTM).
+Collaborate with teams across Global teams to identify opportunities for workflow improvements that enhance efficiency, reduce costs, and shorten cycle times.
+Monitor inline/electrical performance, support general/urgent fab operational issues, investigation and analysis for new products 
+Assist in troubleshooting technical issues and contribute to multiple ongoing projects by applying strong analytical and problem‑solving skills.
+Learn and adopt new technologies while supporting both short‑term operational tasks and longer‑term strategic initiatives.
+Help create and maintain documentation, best practices, and training materials to support consistent execution of Tapeout Operations.
+Support process documentation efforts, including identifying potential failure modes and contributing to mitigation and detection strategies.
