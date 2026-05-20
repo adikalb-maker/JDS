@@ -198,4 +198,351 @@ Roles & Responsibilities:
 --------------------------------------------------------------------------------
 JD 12
 
+What You Will Do
 
+As an Associate Integration Platform Engineer, you will play a critical role in maintaining the health and efficiency of our data pipelines. Your responsibilities will include:
+
+Operations & Maintenance: Manage day-to-day integration tasks, including connector configuration, pipeline monitoring, and troubleshooting data sync issues to ensure high availability.
+Data Lifecycle Management: Assist in onboarding new data sources, managing schedules, handling schema evolution, and implementing basic transformations to maintain data quality and consistency.
+GenAI Innovation: Actively explore and apply Generative AI concepts to build automation agents. You will work on use cases such as automated anomaly detection, intelligent alerting, metadata-driven documentation, and self-service troubleshooting assistants.
+Platform Evolution: Support the evaluation, testing, and deployment of new integration capabilities, connectors, and platform features.
+Collaboration: Partner closely with Data Engineering, Governance, Security, and BI teams to implement scalable, secure, and cost-efficient integration patterns that align with enterprise standards.
+
+-----------------------------------------------------------------------------------
+JD 13:
+
+What You’ll Be Doing:
+Independently own and drive signoff static timing analysis and timing closure for advanced process nodes (7nm/5nm/3nm), ensuring successful tape-outs.
+Execute static timing analysis (STA), power analysis, synthesis and timing/power closure to meet stringent performance and power targets.
+Develop and validate timing constraints at block-level or Full SoC level.
+Knowledge of synthesis, clock tree structures, implementation and STA tool correlation, impact of constraints on physical implementation, parasitic extraction, and formal verification will be preferred.
+Collaborate with cross-functional teams across geographies to resolve complex design challenges and ensure design quality and schedule adherence.
+Utilize and optimize Synopsys EDA tools, including PrimePower, PT-PX, PrimeClosure, and Tweaker to deliver state-of-the-art silicon solutions.
+Develop and maintain automation scripts in Python, PERL, TCL, or other relevant languages to streamline design flows and improve efficiency.
+Contribute to the continuous improvement of static timing analysis flows and methodologies and best practices, sharing insights and mentoring junior engineers as needed.
+
+-------------------------------------------------------------------------------
+JD 14:
+
+Duties Responsibilities
+Develop flows and methodologies that improves on current methodology to integrate complex IP s into FPGA chip-top using digital-on-top (DoT) approach.
+Develop tools and scripts (RTL and custom scripts) to verify connectivity and functionality of chip-top.
+Own chip level floorplan activities, place and route, timing closure, and physical and electrical verification.
+Coordinate activities between different groups like architecture, design, software and verification to ensure smooth integration of various IP s into the chip top.
+Generate netlists with different views for software, physical, electrical and functional verification.
+Collaborate with the packaging team to generate package files for several different members of the FPGA product family.
+Work with verification team to help debug chip top level integration issues related to timing and functionality.
+Effectively presenting technical information to small teams of engineers.
+Communicate regularly with the management, design and verification teams in multiple locations to resolve issues, update status and solve technical problems related to chip/SoC integration and delivery.
+Become well-versed in new ASIC and custom tools related to chip integration.
+
+---------------------------------------------------------------------------------------
+JD 15
+
+Job description
+Strong experience in CPU/BUS/Peripheral integration
+Experience in DSP and custom dataflow integration
+Hands-on expertise in IP integration and subsystem assembly
+Good understanding of NoC configuration and AXI/AHB/APB protocols
+Experience with DFT integration (Scan, MBIST, JTAG)
+Knowledge of CDC/RDC, synthesis, and STA concepts
+Strong debugging skills in large SoC environments RTL integration experience using Verilog/SystemVerilog
+Preferred Exposure to ARM-based SoCs
+Experience with Synopsys tools, Verdi, SpyGlass, PrimeTime
+Good understanding of low-power and clock/reset architecture.
+
+----------------------------------------------------------------------------------------
+JD 16
+
+Roles and Responsibility
+Design and develop high-performance, low-power SoC architectures.
+Collaborate with cross-functional teams to integrate SoC designs into larger systems.
+Develop and implement verification plans for SoC designs.
+Troubleshoot and debug issues related to SoC design and integration.
+Work closely with the physical design team to ensure successful implementation of SoC designs.
+Participate in the development of technical documentation for SoC designs.
+
+--------------------------------------------------------------------------------------
+JD 17
+
+KEY RESPONISIBILITES:
+Analyze existing design blocks for faults and vulnerabilities as application to automotive usage
+Define and specify micro-architecture of future SOC building blocks and necessary infrastructure based on architecture, PPA, DFT, Functional Safety requirements
+RTL design and debug of functions in Verilog / System Verilog
+Integration of hard macro or soft RTL IP into SOC top level
+Power domain/island creation (with UPF)
+Execution of quality checks to improve quality of RTL/UPF/SDC deliverables
+Analysis of design metrics and making implementation choices to optimize PPA
+Targeting SOC RTL to process technology
+Facilitating DFx/MBIST instrumentation
+Work with verification and physical design teams to achieve high quality design and successful tape out
+Collaborate with cross-functional teams to solve novel problems across multiple functional areas
+Design and implement underlying Power Management, Clk/Rst, NOC and DFT infrastructures to ensure implementation tool requirements are met and are optimized for compile time and memory
+Participate in tapeout checklists and reviews
+Build automation (Python, TCL, Perl) to enhance productivity of self and team
+
+-----------------------------------------------------------------------------------------
+JD 18
+
+In this role, you will:
+
+Integrate SoC components and contribute to RTL coding and micro-architecture design.
+Work with tools and flows such as Spyglass-Lint, CDC, DC-Synthesis, and VCLSP.
+Develop and maintain scripts using Perl, Python, Shell, and Tcl to automate design tasks.
+Collaborate with cross-functional teams to ensure seamless SoC integration.
+Participate in design reviews and contribute to quality improvements.
+Stay updated with the latest trends in SoC design and verification.
+Support verification and synthesis activities to ensure design integrity.
+Troubleshoot and resolve integration issues across various IP blocks.
+
+-------------------------------------------------------------------------------------
+JD 19:
+
+Responsibilities
+
+Develop and manage a robust operating system image strategy (including master “golden” images and required variants) for all products, ensuring consistent configurations and performance across different hardware models
+Oversee the integration of device drivers, system BIOS/UEFI, EC firmware, and other platform software components, establishing governance for version control and quality compliance to guarantee seamless hardware-software interoperability.
+Coordinate with Independent Software Vendors (ISVs) for software preload, validation, and certification processes.
+Ensure that third-party applications and solutions are tested and optimized for compatibility on our platforms, and that all required ISV and platform certifications (e.g., workstation or device ISV certifications) are successfully obtained.
+Act as the primary liaison with key external software and hardware partners – including OS providers and silicon/technology vendors – to align OS release roadmaps, driver updates, and firmware patches with hardware development.
+Facilitate collaboration to ensure our products meet all partner requirements and industry standards for platform support and security.
+Establish streamlined update/patch deployment practices to keep device software (OS, drivers, firmware) up-to-date and secure throughout the product lifecycle, with minimal impact on manufacturing and end-user experience.
+Lead cross-functional engineering teams (software, firmware, hardware, QA) and coordinate with manufacturing and quality teams to ensure timely delivery of software components in line with product launch schedules.
+Define and enforce quality standards for all software deliverables.
+Oversee system-level validation testing (OS, drivers, BIOS, firmware) to meet reliability, performance, and security standards. Ensure compliance with industry certifications and implement processes for prompt issue resolution, firmware updates, and customer support related to platform software
+
+--------------------------------------------------------------------------------
+JD 20:
+
+You will :
+
+
+
+
+- Provides post-sales and implementation architecture and engineering services for managed services customers
+
+
+
+
+- Lead the implementation of solutioned services using industry-standard technologies
+
+
+
+
+- Collaborate with team members to drive innovation and ongoing service improvements for integration solutions
+
+
+
+
+- Perform root cause analysis and remediation of integration infrastructure issues
+
+Take the first step towards your dream career
+
+Every Dell Technologies team member brings something unique to the table.
+
+--------------------------------------------------------------------------------
+JD 21
+
+Job Responsibilities
+
+Integrate multiple IPs/subsystems into SoC-level RTL
+Perform AXI/AHB/APB interconnect integration
+Manage clock/reset integration and address mapping
+Run Lint, CDC, RDC, and synthesis sanity checks
+Support DV, DFT, STA, and Physical Design teams
+Debug integration-level RTL and connectivity issues
+Develop automation scripts for integration workflows
+
+--------------------------------------------------------------------
+JD 22
+
+Job Responsibilities
+
+Lead subsystem/full-chip integration activities
+Own SoC assembly and RTL release management
+Coordinate with architecture, RTL, DV, DFT, and PD teams
+Handle integration regressions and issue triage
+Define SoC integration guidelines and checklists
+Support power-domain and multi-clock integration
+Enable scalable integration automation
+
+------------------------------------------------------------
+JD 23
+
+Job Responsibilities
+
+Drive full-chip SoC integration from RTL freeze to tapeout
+Define integration architecture and hierarchical assembly flows
+Manage IP versioning and integration dependencies
+Support silicon bring-up and pre-silicon validation
+Review SoC connectivity, clocking, resets, and memory maps
+Mentor junior integration engineers
+
+Required Skills
+
+Deep SoC front-end integration expertise
+Multi-power-domain integration knowledge
+Strong debug and regression management skills
+Experience with synthesis and timing constraints
+Excellent cross-functional coordination abilities
+
+----------------------------------------------------------
+JD 24
+
+Responsibilities
+
+Integrate BSP, firmware, drivers, and middleware components
+Perform board bring-up and platform enablement
+Support Linux/Android platform integration activities
+Debug hardware/software integration issues
+Validate platform boot flows and peripheral functionality
+Automate build and deployment workflows
+
+---------------------------------------------------------------
+JD 25
+
+Job:
+
+Lead hardware/software platform integration programs
+
+Coordinate firmware, kernel, and middleware integration
+
+Support CI/CD and release integration pipelines
+
+Perform performance tuning and platform optimization
+
+Enable customer-specific platform customization
+
+Drive issue debugging across software and hardware stacks
+
+--------------------------------------------------------------
+JD 26
+
+Own end-to-end platform bring-up and enablement
+Define integration strategy for embedded platforms
+Drive firmware, bootloader, and OS integration
+Manage platform validation and release readiness
+Support customer deployments and platform scalability
+Mentor integration and bring-up teams
+
+-----------------------------------------------------------
+JD 27
+
+Key Responsibilities
+SoC & IP Integration
+Integrate CPU, GPU, DSP, AI accelerator, memory controller, DMA, peripheral, and subsystem IPs into top-level SoC RTL
+Perform hierarchical subsystem assembly and top-level integration
+Manage IP version control and integration dependencies
+Support scalable RTL integration methodologies for large SoCs and chiplet-based architectures
+Integrate AXI/AHB/APB/NoC interconnect infrastructure
+Clock, Reset & Power Integration
+Implement and validate clock/reset integration strategies
+Support multi-clock and asynchronous subsystem integration
+Integrate reset synchronization and clock-domain crossing structures
+Support UPF/CPF-based low-power integration methodologies
+Coordinate power-domain connectivity and isolation integration
+Front-End Signoff & Validation
+Run and debug:
+Lint
+CDC
+RDC
+Connectivity checks
+RTL sanity checks
+Support synthesis and timing-constraint preparation
+Validate address maps, register integration, and interconnect connectivity
+Assist in pre-silicon validation and emulation bring-up
+Build & Automation
+Develop scripts for:
+RTL assembly
+Regression execution
+Build automation
+Log parsing
+Integration sanity checking
+Support continuous integration and automated regression infrastructure
+Cross-Functional Collaboration
+Work closely with:
+Architecture teams
+RTL Design teams
+DV engineers
+DFT engineers
+Physical Design teams
+Firmware and validation teams
+Participate in integration reviews and technical debugging discussions
+Support issue triage and root-cause analysis
+
+------------------------------------------------------------------
+JD 28
+
+Key Responsibilities
+Platform Bring-Up & Enablement
+Perform board bring-up and embedded platform initialization
+Integrate bootloaders, BSPs, Linux kernels, drivers, and middleware
+Support platform enablement for ARM/SoC-based systems
+Validate platform boot sequences and peripheral initialization
+Support hardware/software co-debugging activities
+BSP & Software Integration
+
+Integrate:
+Linux BSPs
+Android BSPs
+Device trees
+Kernel configurations
+Firmware packages
+
+Enable peripherals such as:
+PCIe
+USB
+Ethernet
+UART
+SPI
+I2C
+DDR interfaces
+Support software stack integration and package management
+Debugging & Validation
+
+Debug platform-level issues using:
+UART logs
+JTAG
+Kernel traces
+Crash dumps
+Oscilloscopes/logic analyzers
+Perform root-cause analysis for boot failures, driver issues, and platform instability
+Validate performance, thermal, and power behavior of integrated platforms
+Build, Release & Automation
+Maintain build systems and integration workflows
+
+Develop automation scripts for:
+Build generation
+Flashing
+Validation
+Regression execution
+Deployment
+Support CI/CD integration pipelines
+Cross-Functional Collaboration
+Work with:
+Silicon teams
+Firmware teams
+Kernel developers
+Validation teams
+Application teams
+Customer engineering teams
+Support customer platform customization and issue resolution
+Participate in release readiness and integration reviews
+
+----------------------------------------------------------------------------
+JD 29
+
+Role OverviewAs an SoC Integration Engineer, you will assemble, configure, and integrate complex internal IP blocks and third-party subsystems into full-chip RTL designs. 
+You will bridge the gap between standalone IP development and full-system execution.Key 
+Responsibilities
+Assemble structural RTL components using SystemVerilog or Verilog based on chip architecture specifications.Configure and optimize Network-on-Chip (NoC) interconnects, bus fabrics (AXI, AHB, APB), and memory subsystems.
+Run front-end quality checks including Linting, Clock Domain Crossing (CDC), and Reset Domain Crossing (RDC) analyses.Collaborate with Physical Design teams to resolve initial structural constraints, floorplanning bottlenecks, and pin assignments.
+Build and maintain automation scripts (Python, Tcl, or Perl) to streamline the chip assembly pipeline.
+
+------------------------------------------------------------------------------
+JD 30
+
+Key Responsibilities
+Define, design, and integrate multi-core subsystems, high-speed interfaces (PCIe, DDR/LPDDR, USB), and power management architectures.
+Own top-level full-chip RTL assembly, structural connectivity validation, and multi-voltage power intent definition (UPF/CPF).Lead Static Timing Analysis (STA) constraint development, budget allocation, and early timing closure strategies.
+Define and implement advanced automated integration methodologies to scale chip variations and multi-die topologies.Provide technical leadership across cross-functional teams, including Architecture, Verification, and Back-End Physical Design.
