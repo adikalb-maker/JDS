@@ -546,3 +546,102 @@ Key Responsibilities
 Define, design, and integrate multi-core subsystems, high-speed interfaces (PCIe, DDR/LPDDR, USB), and power management architectures.
 Own top-level full-chip RTL assembly, structural connectivity validation, and multi-voltage power intent definition (UPF/CPF).Lead Static Timing Analysis (STA) constraint development, budget allocation, and early timing closure strategies.
 Define and implement advanced automated integration methodologies to scale chip variations and multi-die topologies.Provide technical leadership across cross-functional teams, including Architecture, Verification, and Back-End Physical Design.
+
+--------------------------------------------------
+JD 31
+
+Key Responsibilities
+
+* Assemble full-chip and subsystem-level RTL using SystemVerilog and Verilog based on architectural specifications.
+* Configure, optimize, and integrate internal bus structures, interconnects, and Network-on-Chip (NoC) fabrics utilizing AMBA protocols (AXI, AHB, APB, CHI).
+* Execute and resolve structural verification checks, including Linting, Clock Domain Crossing (CDC), and Reset Domain Crossing (RDC) using EDA tools like SpyGlass or Questa.
+* Integrate multi-voltage power domains and generate formal power intent specifications using Unified Power Format (UPF).
+* Collaborate directly with verification teams to debug chip-level connectivity issues and with physical design teams to define early floorplan constraints, pin assignments, and IO placements.
+* Develop, maintain, and execute automation scripts using Python, Tcl, or Perl to streamline the RTL generation and integration flow.
+
+Required Qualifications
+
+* Education: Bachelor’s or Master’s degree in Electrical Engineering, Electronics Engineering, Computer Engineering, or a related technical discipline.
+* Experience: 3 to 6 years of direct, hands-on experience in ASIC front-end design, subsystem assembly, or SoC integration.
+* Protocol Knowledge: Demonstrated experience working with AMBA bus protocols (AXI4, AXI3, AHB, APB) and peripheral interfaces (SPI, I2C, UART).
+* Tool Proficiency: Experience with industry-standard front-end design tools for compilation, Lint, and CDC/RDC verification.
+* Scripting: Proficiency in writing scripting code in Python, Tcl, or Perl for data parsing and flow automation.
+
+------------------------------
+JD 32
+
+Key Responsibilities
+
+* Lead the structural integration strategy for full-chip multi-core architectures, high-speed interfaces (PCIe, DDR/LPDDR, HBM, Ethernet), and complex analog/mixed-signal macros.
+* Define and maintain the top-level full-chip RTL assembly infrastructure, build environments, and multi-die or multi-tile connectivity mappings.
+* Architect and implement full-chip power management structures, clocking distribution topologies, and comprehensive Unified Power Format (UPF) configurations.
+* Own top-level Static Timing Analysis (STA) constraint definition, timing budget allocation across subsystems, and front-end timing closure.
+* Establish, deploy, and enforce unified front-end integration methodologies, quality sign-off metrics (Lint, CDC, RDC), and automated compilation flows across all engineering teams.
+* Act as the primary technical liaison between the system architecture, design verification, and back-end physical design groups to resolve structural, area, or timing bottlenecks.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+JD 33
+
+Key Responsibilities
+Work with:
+SoC Design teams
+SoC DV teams
+System Verification teams
+STA teams
+Physical Design teams
+Integrate various IPs into sophisticated SoCs
+Ensure:
+DFT compliance
+CDC closure
+synthesis readiness
+timing closure
+power requirements
+Improve front-end methodologies and integration flows
+Develop microarchitecture and design specifications
+Implement and verify complex logic designs
+Support logical, timing, physical, and power debugging
+
+---------------------------------------------------------------------------------------------------------
+JD 34
+
+Responsibilities
+
+Shape the technical vision. Partnering with the Software Engineering Director to set long-term technical direction across serving-engine integration (vLLM, SGLang, NVIDIA Dynamo), disaggregated prefill/decode, KV cache management (NIXL / Mooncake TE), cluster orchestration, fleet management, networking, and deployment - and own the architectural integrity of that vision across the full platform lifecycle.
+Translate strategy into architecture. Work with the Director and cross-functional partners to turn long-term business direction into concrete architectural priorities, and identify where technical investments will have the highest leverage
+Set the architectural bar. Define the principles, interface contracts, and standards the organisation builds to - across scheduling, fleet operations, ingress/egress, and platform management - and ensure they hold across teams.
+Make the hard calls. Own the technical decision-making across the platform stack: orchestration and scheduling architecture, fleet management systems, networking design, and deployment strategy.
+Lead through influence. Drive alignment across teams without direct authority - through rigour, clarity, and the quality of your technical thinking.
+Raise the technical ceiling. Mentor and stretch senior engineers across the organisation - not as a manager, but as a technical leader who holds the bar high and helps others reach it.
+
+---------------------------------------------------------------------------------------------------------
+JD 35
+
+Key Responsibilities
+
+Defining and developing flows and methodologies for chip level integration
+Developing tools for design verification or efficiency
+Designing (RTL and custom), verifying, and integrating FPGA/ACAP sub-blocks
+Coordinating activities between different design groups to ensure smooth integration
+Executing chip level physical verification
+Executing chip level electrical verification
+
+------------------------------------------------------------------------------------------
+JD 36
+
+Key Responsibilities
+Integrate multiple RTL/IP blocks and subsystems into top-level SoC environments while ensuring proper connectivity, hierarchy management, and clean integration across different design domains.
+Perform clock, reset, interrupt, and interconnect integration activities for complex SoCs involving multiple power and clock domains.
+Run and analyze front-end quality checks including Lint, CDC, RDC, and connectivity verification to identify and resolve integration-related issues.
+Debug RTL integration, build, compilation, and subsystem connectivity issues during various stages of SoC development and regression execution.
+Collaborate closely with Design Verification (DV), DFT, STA, Physical Design, and Architecture teams to support smooth chip development and integration signoff activities.
+Develop and maintain automation scripts for RTL assembly, regression management, log analysis, and integration workflow optimization using Python, Perl, TCL, or Shell scripting.
+
+--------------------------------------------------------------------------------------
+JD 37
+Key Responsibilities
+Assemble CPU, GPU, DSP, NPU, and memory subsystem IP blocks into the top-level chip architecture.Design and configure the on-chip interconnect fabrics, routers, and bus matrix layers.
+Define global chip infrastructure, including clock generation (PLLs), reset logic, and power management domains.
+Execute static verification steps like Linting, Clock Domain Crossing (CDC), and Reset Domain Crossing (RDC) checks.
+Collaborate with Synthesis, Design For Test (DFT), and Physical Design teams to close timing and routing constraints.
+
+
