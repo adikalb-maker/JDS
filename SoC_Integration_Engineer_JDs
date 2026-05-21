@@ -644,4 +644,107 @@ Define global chip infrastructure, including clock generation (PLLs), reset logi
 Execute static verification steps like Linting, Clock Domain Crossing (CDC), and Reset Domain Crossing (RDC) checks.
 Collaborate with Synthesis, Design For Test (DFT), and Physical Design teams to close timing and routing constraints.
 
+------------------------------------------------------------------------------------------
+JD 38
 
+In this role, you will:
+
+Integrate SoC components and contribute to RTL coding and micro-architecture design.
+Work with tools and flows such as Spyglass-Lint, CDC, DC-Synthesis, and VCLSP.
+Develop and maintain scripts using Perl, Python, Shell, and Tcl to automate design tasks.
+Collaborate with cross-functional teams to ensure seamless SoC integration.
+Participate in design reviews and contribute to quality improvements.
+Stay updated with the latest trends in SoC design and verification.
+Support verification and synthesis activities to ensure design integrity.
+Troubleshoot and resolve integration issues across various IP blocks.
+
+--------------------------------------------------------------------------------------
+JD 39
+
+Responsibilities
+Integrate multiple IPs and subsystems into top-level SoC RTL while ensuring proper connectivity, hierarchy management, and clean integration across various design domains.
+Perform clock, reset, interrupt, and bus interconnect integration for complex SoCs involving multiple power and clock domains.
+Run front-end quality checks including Lint, CDC, RDC, synthesis sanity, and connectivity verification to identify and resolve integration-related issues.
+Debug RTL integration failures, build issues, simulation mismatches, and subsystem connectivity problems during SoC development cycles.
+Collaborate closely with RTL Design, DV, DFT, STA, Physical Design, and Architecture teams to support full-chip integration and tapeout readiness.
+Support low-power integration activities including UPF-based power-domain integration, isolation, retention, and power-intent validation.
+Develop and maintain automation scripts for RTL assembly, regression execution, log analysis, release management, and integration workflow optimization.
+Manage IP version updates, integration dependencies, and SoC release branches using version-control and configuration-management systems.
+Participate in integration reviews, issue triage discussions, and root-cause analysis for chip-level integration and functionality issues.
+Support emulation, FPGA prototyping, and pre-silicon validation teams during subsystem bring-up and integration debugging activities.
+
+-----------------------------------------------------------------------------------------
+JD 40
+
+Responsibilities
+Perform embedded platform bring-up and initialization activities for ARM-based and SoC-based hardware platforms.
+Integrate Linux/Android BSPs, bootloaders, middleware, firmware, drivers, and application software into embedded target platforms.
+Configure and validate device trees, kernel configurations, peripheral interfaces, and hardware abstraction layers for stable platform functionality.
+Debug hardware/software integration issues using UART logs, JTAG, crash dumps, kernel traces, and other platform debugging tools.
+Support integration and enablement of peripherals such as PCIe, Ethernet, USB, UART, SPI, I2C, GPIO, and storage interfaces.
+Work closely with silicon, firmware, kernel, validation, and customer engineering teams to resolve platform-level issues and improve system stability.
+Maintain build systems, release integration flows, CI/CD pipelines, and deployment automation for embedded software platforms.
+Develop Python/Shell scripts for flashing, validation, regression execution, log parsing, and platform automation tasks.
+Validate platform boot flows, driver initialization, firmware interactions, and overall system performance across different hardware configurations.
+Support customer-specific platform customization, issue debugging, and software release activities for production deployments.
+
+-----------------------------------------------------------------------------------------------
+JD 41
+
+Integrate third-party and internal IPs into subsystem and full-chip SoC environments while ensuring clean connectivity and proper interface alignment.
+Handle SoC top-level changes related to clocks, resets, interrupts, address maps, and bus interconnects across multiple modules.
+Run Lint, CDC, RDC, and connectivity checks regularly and debug issues reported during integration and regression cycles.
+Work with DV teams to resolve simulation failures, waveform mismatches, X-propagation issues, and integration-related bugs.
+Coordinate with DFT and Physical Design teams for scan integration, synthesis readiness, timing constraints, and clean RTL handoff.
+Maintain integration branches, update RTL drops from IP teams, and manage SoC build dependencies across releases.
+Develop scripts for RTL assembly, regression setup, log collection, and automation of repetitive integration tasks.
+Support pre-silicon bring-up, emulation, and FPGA teams during subsystem integration and validation activities.
+
+-----------------------------------------------------------------------------------------------
+JD 42
+
+what you will be doing
+
+Perform board bring-up activities and support initial hardware/software platform enablement for embedded systems.
+Integrate BSPs, bootloaders, Linux kernels, device trees, drivers, and middleware components into target platforms.
+Debug boot failures, kernel panics, driver loading issues, and peripheral communication problems during platform integration.
+Work on enabling interfaces such as PCIe, USB, Ethernet, SPI, I2C, UART, and GPIO across different hardware variants.
+Collaborate with firmware, validation, and hardware teams to identify and resolve platform stability and performance issues.
+Maintain build environments and support software release integration activities for customer and internal builds.
+Develop automation scripts for flashing images, collecting logs, running sanity tests, and validating platform functionality.
+Support customer-specific platform customization, issue reproduction, and deployment support during product releases.
+
+---------------------------------------------------------------------------------------------------
+JD 43
+
+Key Responsibilities
+Own subsystem and top-level SoC integration activities for large ASIC programs from RTL freeze until tapeout support.
+Review integration changes from IP teams and ensure compatibility with existing SoC architecture and integration guidelines.
+Drive issue triage for integration regressions, synthesis mismatches, CDC violations, and connectivity failures.
+Coordinate closely with Architecture, DV, DFT, STA, and PD teams to ensure smooth front-end execution and release readiness.
+Support low-power integration activities including power-domain connectivity, isolation handling, and UPF-related checks.
+Improve integration methodologies and automate repetitive tasks to reduce integration turnaround time and regression failures.
+Mentor junior engineers on integration flows, debug methodologies, and RTL quality practices.
+
+-----------------------------------------------------------------------------------------------------
+JD 44
+
+thing you will do
+
+Support integration of firmware, middleware, and application software on embedded hardware platforms.
+Perform hardware/software co-debugging using UART, JTAG, oscilloscopes, and kernel debugging tools.
+Validate peripheral functionality and interface communication across multiple embedded configurations.
+Work with cross-functional teams to resolve integration issues related to drivers, firmware, bootloaders, and hardware dependencies.
+Maintain software integration pipelines and support continuous integration activities for platform releases.
+Execute sanity testing, regression validation, and system-level checks before production releases.
+Assist in performance tuning, memory optimization, and platform stability improvements for embedded products.
+
+--------------------------------------------------------------------------------------------------
+JD 45
+
+What you will be doing
+
+Work on integrating CPU, GPU, memory controller, NoC, and peripheral IPs into the top-level SoC RTL environment for upcoming chip releases.
+Take ownership of daily SoC build activities, resolve compilation and integration issues, and maintain stable integration branches for verification teams.
+Coordinate with IP owners to receive new RTL drops, review integration changes, and ensure compatibility with existing subsystem architecture.
+Support emulation and pre-silicon bring-up activities by resolving integration-related issues seen during early platform validation.
